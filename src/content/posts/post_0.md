@@ -1,7 +1,7 @@
 ---
 title: "How I Used RabbitMQ with Spring Boot to Handle Long-Running AI Tasks"
 description: "How I used RabbitMQ, Redis, Spring Boot, and a Python worker to process long-running AI tasks asynchronously."
-pubDatetime: 2026-08-30T18:00:00Z
+pubDatetime: 2025-10-09T18:00:00Z
 author: "Mouad"
 tags:
   - spring-boot
